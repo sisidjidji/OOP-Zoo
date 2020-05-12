@@ -1,0 +1,13 @@
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\bin\Debug\netcoreapp3.1\Oop-zoo.exe
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\bin\Debug\netcoreapp3.1\Oop-zoo.deps.json
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\bin\Debug\netcoreapp3.1\Oop-zoo.runtimeconfig.json
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\bin\Debug\netcoreapp3.1\Oop-zoo.runtimeconfig.dev.json
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\bin\Debug\netcoreapp3.1\Oop-zoo.dll
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\bin\Debug\netcoreapp3.1\Oop-zoo.pdb
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\obj\Debug\netcoreapp3.1\Oop-zoo.csprojAssemblyReference.cache
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\obj\Debug\netcoreapp3.1\Oop-zoo.csproj.CoreCompileInputs.cache
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\obj\Debug\netcoreapp3.1\Oop-zoo.AssemblyInfoInputs.cache
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\obj\Debug\netcoreapp3.1\Oop-zoo.AssemblyInfo.cs
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\obj\Debug\netcoreapp3.1\Oop-zoo.dll
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\obj\Debug\netcoreapp3.1\Oop-zoo.pdb
+C:\Users\sazib\source\repos\OOP-Zoo\Oop-zoo\obj\Debug\netcoreapp3.1\Oop-zoo.genruntimeconfig.cache
