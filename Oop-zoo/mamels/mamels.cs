@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Oop_zoo
 {
-    abstract class mamels:Animals
+   public abstract class mamels:Animals
     {
         public override int Age => 7;
         public override decimal Weight => 100m;

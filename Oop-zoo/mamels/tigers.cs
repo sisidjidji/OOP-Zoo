@@ -4,25 +4,29 @@ using System.Text;
 
 namespace Oop_zoo
 {
-   pu class tigers
+   public class Tigers:mamels
     {
         public override int Age => 2;
         public override decimal Weight => 100m;
 
         public override int Id => 09222;
 
+
+        public override string Hair => "brown";
+      
+
         public override string Sound()
         {
-            return "the sardine dound";
+            return "the tigers wowww";
         }
 
         public override string Sleep()
         {
-            return "the sleep the night";
+            return "the tiger sleep the night";
         }
         public override string Eat()
         {
-            return "sardines eat algaue";
+            return "tiger eat algaue";
         }
     }
 }
