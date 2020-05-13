@@ -4,8 +4,7 @@ using System.Text;
 
 namespace Oop_zoo
 {
-    abstract class Fishes:Animals
+    class spiders
     {
-
     }
 }

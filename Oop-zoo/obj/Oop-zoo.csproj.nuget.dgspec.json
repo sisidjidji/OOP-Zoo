@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sazib\\source\\repos\\OOP-Zoo\\Oop-zoo\\Oop-zoo.csproj": {}
+    "C:\\Users\\sazib\\Source\\Repos\\OOP-Zoo\\Oop-zoo\\Oop-zoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sazib\\source\\repos\\OOP-Zoo\\Oop-zoo\\Oop-zoo.csproj": {
+    "C:\\Users\\sazib\\Source\\Repos\\OOP-Zoo\\Oop-zoo\\Oop-zoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sazib\\source\\repos\\OOP-Zoo\\Oop-zoo\\Oop-zoo.csproj",
+        "projectUniqueName": "C:\\Users\\sazib\\Source\\Repos\\OOP-Zoo\\Oop-zoo\\Oop-zoo.csproj",
         "projectName": "Oop-zoo",
-        "projectPath": "C:\\Users\\sazib\\source\\repos\\OOP-Zoo\\Oop-zoo\\Oop-zoo.csproj",
+        "projectPath": "C:\\Users\\sazib\\Source\\Repos\\OOP-Zoo\\Oop-zoo\\Oop-zoo.csproj",
         "packagesPath": "C:\\Users\\sazib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sazib\\source\\repos\\OOP-Zoo\\Oop-zoo\\obj\\",
+        "outputPath": "C:\\Users\\sazib\\Source\\Repos\\OOP-Zoo\\Oop-zoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sazib\\AppData\\Roaming\\NuGet\\NuGet.Config",
