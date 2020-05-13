@@ -13,12 +13,12 @@ namespace Oop_zoo
 
         public virtual bool Hasfure { get; }
 
-        public abstract void Eat();
+        public abstract string Eat();
 
-        public abstract void Sound();
-         public virtual void Sleep()
+        public abstract string Sound();
+         public virtual string Sleep()
         {
-
+            return "all animals close there eyes to sleep";
         }
 
     }
